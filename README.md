@@ -20,53 +20,58 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ---
 
-## 💡 What I Do
+## 🛠️ **Tech Stack & Tools**
 
-- **Project Management** | Application Development | Debugging | Problem-Solving  
-- Building web and desktop applications, managing teams, and ensuring smooth project execution.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages:**  
-`C++` `Java` `Python` `HTML` `CSS` `JavaScript` `TypeScript` `MySQL` `PHP` `C#`
-
-**Frameworks:**  
-- Frontend: `Bootstrap`, `Angular`
-- Backend: `Spring Boot`
-
-**Tools:**  
-`Git & GitHub` | `ASP.NET Core Web API` | `REST API` | `XAMPP` | `MySQL Workbench`  
-`VS Code`, `Visual Studio`, `Eclipse`, `NetBeans`, `IntelliJ IDEA`, `Unix/Linux CLI`  
-`Power BI`, `Microsoft Office`
-
-**Other:**  
-`MVC Architecture` | `Agile & Waterfall Development` | `Project Documentation`  
-`Windows 11` | `Linux (Ubuntu)`  
-`Professional proficiency`: Filipino, English
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <br><br>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <br><br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20CLI-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Java Music Player Desktop Application](https://github.com/neoboi76/timbol-IT128)
-*May–July 2025*
-- Led backend development using Java, JPA/Hibernate, and MySQL.
-- Built full CRUD for song metadata and user state.
-- Implemented event-driven, thread-safe audio playback.
+- [**NetNinjas Project**](https://github.com/neoboi76/NetNinjas_Project)  
+  Collaborative application development and debugging.
 
-### Employee Management System (Brgy. San Antonio, Makati)
-*Jan–Mar 2025*
-- Architected and deployed a PHP/MySQL web app for 20+ employees.
-- Automated payroll, leave, and case management.
+- [**SEAM**](https://github.com/neoboi76/SEAM)  
+  Student Evaluation and Assessment Management platform.
 
-### [NetNinjas_Project](https://github.com/neoboi76/NetNinjas_Project)
-- Collaborative application development and debugging.
+- [**Java Music Player Application (ITS181)**](https://github.com/neoboi76/ITS181-1-Project)  
+  Desktop music player with a multithreaded playback engine and Hibernate/MySQL persistence.
 
-### User Acceptance Tester @ SOCIP (Mapúa University, SHS Work Immersion)
-*Feb–Mar 2023*
-- Designed and executed UAT suite for YouTube.com, validating 8 workflows.
+- [**ITS121L Project**](https://github.com/neoboi76/ITS121L-Project)  
+  Academic project focusing on innovative IT solutions.
 
 ---
 
@@ -101,17 +106,8 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ---
 
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/dino-alfred-timbol-3b949a248)
-- [Facebook](https://www.facebook.com/dino.alfred.timbol.310122)
-- [ORCID](https://orcid.org/0009-0001-8949-9105)
-- 📧 [aldy.timbol@gmail.com](mailto:aldy.timbol@gmail.com)
-
----
-
 **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 
 ---
 
-*Thanks for stopping by! Feel free to explore my projects, reach out, or connect for collaboration.*
+*Thanks for stopping by! Feel free to explore my projects or connect with me.*
