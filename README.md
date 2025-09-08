@@ -23,7 +23,6 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 ## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,12 +34,10 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <br><br>
-  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <br><br>
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -67,11 +64,11 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 - Integrated RESTful APIs and real-time notifications for seamless user experience.
 - Managed version control, code reviews, and deployment through GitHub Actions.
 
-### [SEAM (Student Evaluation and Assessment Management)](https://github.com/neoboi76/SEAM)
-- Architected and developed a management system to streamline student evaluation processes for educators.
+### [School Equipment Acquisition and Monitoring System (SEAM)](https://github.com/neoboi76/SEAM)
+- Architected and developed a management system to streamline acquisition and monitoring of school equipment.
 - Built secure user authentication and role-based access using PHP and MySQL.
-- Automated grading, assessment tracking, and report generation.
-- Deployed system for use by school administrators.
+- Automated inventory tracking, request approval workflows, and equipment lifecycle management.
+- Generated actionable reports for administrators to improve resource oversight.
 
 ### [Java Music Player Application (ITS181)](https://github.com/neoboi76/ITS181-1-Project)
 - Led backend development by implementing a MySQL-backed JPA (Hibernate) persistence layer in Java for song metadata and user state.
@@ -79,11 +76,11 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 - Developed full CRUD operations and robust error handling.
 - Ensured smooth integration between UI and backend components.
 
-### [ITS121L Project](https://github.com/neoboi76/ITS121L-Project)
-- Developed a desktop application focusing on IT solutions for academic environments.
-- Implemented core features in Java and MySQL, including data entry, query, and reporting.
-- Collaborated with peers for design, documentation, and testing.
-- Delivered project on schedule with comprehensive user documentation.
+### [ITS121L Project](https://github.com/neoboi76/ITS121L_Project.github.io)
+- Developed a web-based academic project aimed at demonstrating IT concepts and practical skills.
+- Implemented interactive components using HTML, CSS, and JavaScript.
+- Worked collaboratively on documentation, requirements gathering, and testing to ensure quality delivery.
+- Presented project outcomes and findings in a structured, user-friendly format.
 
 ---
 
@@ -92,7 +89,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 - **BS Information Technology**, Mapúa University (*2023-Present*)
   - Relevant coursework: Web & Desktop App Dev, DBMS, OOP (Java), UI/UX, Systems Integration
 - **Senior High School Diploma**, Mapúa University, Intramuros Campus (*2021-2023*)
-  - Consistent High Honors
+  - Previously awarded Dean's and President's Listers Awards
 - **DOST-SEI S&T Merit Scholarship** (*2023*)
   - Top 10% of 79,585 examinees
 
