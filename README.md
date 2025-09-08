@@ -61,17 +61,29 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ## 🌟 Featured Projects
 
-- [**NetNinjas Project**](https://github.com/neoboi76/NetNinjas_Project)  
-  Collaborative application development and debugging.
+### [NetNinjas Project](https://github.com/neoboi76/NetNinjas_Project)
+- Designed and implemented a collaborative web application for task management and tracking.
+- Led a team of 5 in developing modular features using Angular and Spring Boot.
+- Integrated RESTful APIs and real-time notifications for seamless user experience.
+- Managed version control, code reviews, and deployment through GitHub Actions.
 
-- [**SEAM**](https://github.com/neoboi76/SEAM)  
-  Student Evaluation and Assessment Management platform.
+### [SEAM (Student Evaluation and Assessment Management)](https://github.com/neoboi76/SEAM)
+- Architected and developed a management system to streamline student evaluation processes for educators.
+- Built secure user authentication and role-based access using PHP and MySQL.
+- Automated grading, assessment tracking, and report generation.
+- Deployed system for use by school administrators.
 
-- [**Java Music Player Application (ITS181)**](https://github.com/neoboi76/ITS181-1-Project)  
-  Desktop music player with a multithreaded playback engine and Hibernate/MySQL persistence.
+### [Java Music Player Application (ITS181)](https://github.com/neoboi76/ITS181-1-Project)
+- Led backend development by implementing a MySQL-backed JPA (Hibernate) persistence layer in Java for song metadata and user state.
+- Created a multithreaded playback engine using Java Swing and custom event/listener patterns for responsive UI.
+- Developed full CRUD operations and robust error handling.
+- Ensured smooth integration between UI and backend components.
 
-- [**ITS121L Project**](https://github.com/neoboi76/ITS121L-Project)  
-  Academic project focusing on innovative IT solutions.
+### [ITS121L Project](https://github.com/neoboi76/ITS121L-Project)
+- Developed a desktop application focusing on IT solutions for academic environments.
+- Implemented core features in Java and MySQL, including data entry, query, and reporting.
+- Collaborated with peers for design, documentation, and testing.
+- Delivered project on schedule with comprehensive user documentation.
 
 ---
 
