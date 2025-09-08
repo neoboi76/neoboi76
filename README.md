@@ -10,7 +10,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 - **Location:** Valenzuela City, Philippines
 - **Role:** Software Developer Intern
-- **Education:** BS Information Technology @Mapúa University (*Current GWA: 1.55*)
+- **Education:** BS Information Technology @ Mapúa University (*Current GWA: 1.55*)
 - **Awards:** DOST-SEI S&T Merit Scholar | Consistent High Honors Student
 - **Contact:**  
   [aldy.timbol@gmail.com](mailto:aldy.timbol@gmail.com)  
@@ -35,8 +35,6 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <br><br>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -60,8 +58,8 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ### [NetNinjas Project](https://github.com/neoboi76/NetNinjas_Project)
 - Designed and implemented a collaborative web application for task management and tracking.
-- Led a team of 5 in developing modular features using Angular and Spring Boot.
-- Integrated RESTful APIs and real-time notifications for seamless user experience.
+- Led a team of 5 in developing modular features for efficient group workflow.
+- Built role-based dashboards and interactive task boards.
 - Managed version control, code reviews, and deployment through GitHub Actions.
 
 ### [School Equipment Acquisition and Monitoring System (SEAM)](https://github.com/neoboi76/SEAM)
@@ -78,7 +76,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ### [ITS121L Project](https://github.com/neoboi76/ITS121L_Project.github.io)
 - Developed a web-based academic project aimed at demonstrating IT concepts and practical skills.
-- Implemented interactive components using HTML, CSS, and JavaScript.
+- Implemented interactive components using HTML, CSS, JavaScript, and Bootstrap 5.
 - Worked collaboratively on documentation, requirements gathering, and testing to ensure quality delivery.
 - Presented project outcomes and findings in a structured, user-friendly format.
 
@@ -89,7 +87,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 - **BS Information Technology**, Mapúa University (*2023-Present*)
   - Relevant coursework: Web & Desktop App Dev, DBMS, OOP (Java), UI/UX, Systems Integration
 - **Senior High School Diploma**, Mapúa University, Intramuros Campus (*2021-2023*)
-  - Previously awarded Dean's and President's Listers Awards
+  - Consistent High Honors
 - **DOST-SEI S&T Merit Scholarship** (*2023*)
   - Top 10% of 79,585 examinees
 
