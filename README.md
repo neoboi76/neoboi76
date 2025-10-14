@@ -115,7 +115,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 ---
 
-**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
+*“Given enough eyeballs, all bugs are shallow.”* – Eric S. Raymond, *The Cathedral and the Bazaar (1999)*
 
 ---
 
