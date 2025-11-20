@@ -10,7 +10,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
 
 - **Location:** Valenzuela City, Philippines
 - **Role:** Software Developer Intern
-- **Education:** BS Information Technology @ Mapúa University (*Current GWA: 1.55*)
+- **Education:** BS Information Technology @ Mapúa University 
 - **Awards:** DOST-SEI S&T Merit Scholar | Consistent High Honors Student
 - **Contact:**  
   [aldy.timbol@gmail.com](mailto:aldy.timbol@gmail.com)  
