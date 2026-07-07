@@ -256,3 +256,7 @@ A desktop-based music player built with Java that integrates GUI, database persi
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neoboi76&theme=radical&row=1&column=7" alt="GitHub Trophy">
 </p>
+
+---
+
+*"Given enough eyeballs, all bugs are shallow."* – Eric S. Raymond, *The Cathedral and the Bazaar (1999)*
