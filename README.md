@@ -1,15 +1,15 @@
-# Hi, I'm Dino Alfred Timbol (neoboi76) 
+# Dino Alfred Timbol (neoboi76)
 
-**Aspiring Software Developer | IT Student | Curious Builder**
+**Aspiring Full-Stack Software Developer | Information Technology Student**
 
-Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Technology at Mapúa University. I'm passionate about building solutions, learning new technologies, and collaborating with talented peers.
+Information Technology student at Mapúa University with hands-on experience building enterprise-grade web applications using Spring Boot, ASP.NET Core, and Angular. Focused on secure authentication, AI integration, and database design.
 
 ---
 
 ## About Me
 
 - **Location:** Valenzuela City, Philippines
-- **Role:** Software Developer Intern
+- **Role:** IT Student | Support Engineer Intern @ Dashlabs.ai (YC W21)
 - **Education:** BS Information Technology @ Mapúa University 
 - **Awards:** DOST-SEI S&T Merit Scholar | Consistent High Honors Student
 - **Contact:**  
@@ -17,6 +17,19 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
   [LinkedIn](https://www.linkedin.com/in/dino-alfred-timbol-3b949a248)  
   [Facebook](https://www.facebook.com/dino.alfred.timbol.310122)  
   [ORCID](https://orcid.org/0009-0001-8949-9105)
+
+---
+
+## Experience
+
+### Support Engineer Intern — Dashlabs.ai (YC W21)
+*January 2026 – May 2026 | Mandaluyong, Philippines*
+
+Interned at a laboratory information system (LIS) startup providing an end-to-end platform for laboratories and clinics, assigned across the Client Success and Quality Assurance departments.
+
+- Handled Intaker and Solver roles in Client Success, independently managing client concerns from intake through resolution, including document modification of clinical lab templates (hematology, urinalysis, requisition forms) via DocsGen
+- Wrote and executed structured QA test cases for core modules (patient registration, order management, document generation), and identified, documented, and regression-tested bug fixes
+- Designed and built a Dynamic Summary Report feature using HTML, CSS, and Nunjucks templating, delivering a reusable, lab-agnostic report deployed across all labs on the platform
 
 ---
 
@@ -37,6 +50,7 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -54,11 +68,38 @@ Welcome! I'm Dino, currently pursuing a Bachelor of Science in Information Techn
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
 ## Featured Projects
+
+### [SumiCare: Spa Operations Management Platform (Capstone Project)](https://github.com/neoboi76/sumicare-general)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Angular](https://img.shields.io/badge/Angular-21-red.svg)](https://angular.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D.svg)](https://redis.io/)
+
+A web-based spa operations management platform built for New Lasema Spa Jjimjilbang, replacing paper-based booking, treatment, and cashiering workflows with a multi-tenant system pairing a public booking website with a role-restricted internal operations dashboard.
+
+**Key Features:**
+- Public booking website paired with a role-restricted internal operations system
+- JWT-based authentication with multi-factor authentication (MFA)
+- Real-time room and therapist tracking via WebSockets
+- PayMongo payment gateway integration
+- CSV-exportable reporting
+
+**My Contributions (Group Leader):**
+- Led development of the modular-monolith Spring Boot 3.2 (Java 21) backend on PostgreSQL 16 and Redis 7
+- Architected the Angular 21 frontend and its integration with the backend API
+- Implemented JWT/MFA authentication and the real-time WebSocket tracking system
+- Integrated the PayMongo payment gateway for online transactions
+
+**Tech Stack:** Java 21, Spring Boot 3.2, Spring Security, PostgreSQL 16, Redis 7, Angular 21, WebSockets, JWT, PayMongo API
+
+---
 
 ### [NewsCheck: AI-Based Fake News Detection Platform](https://github.com/neoboi76/ITS120LProj_Grp6)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
@@ -167,16 +208,26 @@ A desktop-based music player built with Java that integrates GUI, database persi
 
 **Tech Stack:** Java SE, Java Swing, JPA/Hibernate, MySQL, Multithreading, MVC Architecture
 
-**[📹 Video Demo](https://drive.google.com/file/d/1LudnPLUX-jcsMl2ityxmUof7OnKPjlVp/view?usp=sharing)**
+**[Video Demo](https://drive.google.com/file/d/1LudnPLUX-jcsMl2ityxmUof7OnKPjlVp/view?usp=sharing)**
+
+---
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner** (May 2026) — Score 967/1000, valid until May 2029
+- **SAKURA Internet Cloud Computing Hands-on Training**, ITS175 (March 2026) — in collaboration with Mapúa University
+- **ISC2 Certified in Cybersecurity** (Certified since 2025) — Certification No. 2992629, cycle Jan 2026 – Dec 2028
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (October 2025)
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (October 2025)
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** (September 2025)
 
 ---
 
 ## Education & Scholarships
 
-- **BS Information Technology**, Mapúa University (*2023-Present*)
+- **BS Information Technology**, Mapúa University (*August 2023 – October 2026*)
+  - Current GWA of 1.49
   - Relevant coursework: Web & Desktop App Dev, DBMS, OOP (Java), UI/UX, Systems Integration
-- **Senior High School Diploma**, Mapúa University, Intramuros Campus (*2021-2023*)
-  - Consistent High Honors
 - **DOST-SEI S&T Merit Scholarship** (*2023*)
   - Top 10% of 79,585 examinees
 
@@ -205,11 +256,3 @@ A desktop-based music player built with Java that integrates GUI, database persi
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neoboi76&theme=radical&row=1&column=7" alt="GitHub Trophy">
 </p>
-
----
-
-*"Given enough eyeballs, all bugs are shallow."* – Eric S. Raymond, *The Cathedral and the Bazaar (1999)*
-
----
-
-*Thanks for stopping by! Feel free to explore my projects or connect with me.*
