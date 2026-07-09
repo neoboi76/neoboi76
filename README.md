@@ -245,8 +245,8 @@ A desktop-based music player built with Java that integrates GUI, database persi
 ## GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neoboi76&show_icons=true&theme=radical" alt="neoboi76's GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoboi76&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img src="https://github-stats-extended.vercel.app/api?username=neoboi76&show_icons=true&theme=radical" alt="neoboi76's GitHub Stats" height="180">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=neoboi76&layout=compact&theme=radical" alt="Top Languages" height="180">
 </p>
 
 <p align="center">
@@ -254,7 +254,7 @@ A desktop-based music player built with Java that integrates GUI, database persi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neoboi76&theme=radical&row=1&column=7" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=neoboi76&theme=radical&row=1&column=7" alt="GitHub Trophy">
 </p>
 
 ---
