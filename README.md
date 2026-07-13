@@ -22,7 +22,7 @@ Information Technology student at Mapúa University with hands-on experience bui
 
 ## Experience
 
-### Support Engineer Intern — Dashlabs.ai (YC W21)
+### Support Engineer Intern, Dashlabs.ai (YC W21)
 *January 2026 – May 2026 | Mandaluyong, Philippines*
 
 Interned at a laboratory information system (LIS) startup providing an end-to-end platform for laboratories and clinics, assigned across the Client Success and Quality Assurance departments.
@@ -49,6 +49,7 @@ Interned at a laboratory information system (LIS) startup providing an end-to-en
   <br><br>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <br><br>
@@ -101,7 +102,7 @@ A web-based spa operations management platform built for New Lasema Spa Jjimjilb
 
 ---
 
-### [NewsCheck: AI-Based Fake News Detection Platform](https://github.com/neoboi76/ITS120LProj_Grp6)
+### [NewsCheck (Web): AI-Based Fake News Detection Platform](https://github.com/neoboi76/ITS120LProj_Grp6)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-20.3.0-red.svg)](https://angular.io/)
@@ -125,6 +126,31 @@ An AI-powered platform that detects fake news and verifies information using Goo
 - Set up Docker containerization for easy deployment
 
 **Tech Stack:** Java 17, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Angular, Tailwind CSS, Google Gemini API, Docker
+
+---
+
+### [NewsCheck (Android): Real-Time News Aggregator](https://github.com/neoboi76/newscheck)
+[![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF.svg)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Confluent%207.5-231F20.svg)](https://kafka.apache.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)](https://www.postgresql.org/)
+
+An Android news app that replaces constant refresh-polling with an event-driven backend: articles are fetched once, fanned out through Kafka by category, and pushed to subscribed users in real time.
+
+**Key Features:**
+- Category-based topic subscriptions (technology, sports, business, health, breaking news, and more)
+- Real-time breaking-news push notifications via Firebase Cloud Messaging, no client-side polling
+- Aggregation and deduplication from multiple public sources (NewsAPI.org, The Guardian API)
+- Event distribution through Apache Kafka topics per category, built to hold up during breaking-news surges
+- JWT-authenticated REST API with per-endpoint rate limiting and request correlation IDs
+
+**My Contributions:**
+- Part of a 5-person academic capstone team building the aggregator, news-server, and Android client
+- Contributed to the Kotlin Android client (Retrofit-based API layer, category selection, feed, FCM notifications)
+- Worked on the Kafka-based event pipeline connecting the aggregator and news-server services
+
+**Tech Stack:** Kotlin, Java 21, Spring Boot, Spring Data JPA, Spring Security, Apache Kafka, PostgreSQL, Firebase Cloud Messaging, JWT, Docker Compose
 
 ---
 
@@ -214,9 +240,9 @@ A desktop-based music player built with Java that integrates GUI, database persi
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner** (May 2026) — Score 967/1000, valid until May 2029
-- **SAKURA Internet Cloud Computing Hands-on Training**, ITS175 (March 2026) — in collaboration with Mapúa University
-- **ISC2 Certified in Cybersecurity** (Certified since 2025) — Certification No. 2992629, cycle Jan 2026 – Dec 2028
+- **AWS Certified Cloud Practitioner** (May 2026): Score 967/1000, valid until May 2029
+- **SAKURA Internet Cloud Computing Hands-on Training**, ITS175 (March 2026): in collaboration with Mapúa University
+- **ISC2 Certified in Cybersecurity** (Certified since 2025): Certification No. 2992629, cycle Jan 2026 – Dec 2028
 - **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (October 2025)
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** (October 2025)
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** (September 2025)
