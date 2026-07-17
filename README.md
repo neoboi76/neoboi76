@@ -1,17 +1,17 @@
 # Dino Alfred Timbol (neoboi76)
 
-**Aspiring Full-Stack Software Developer | Information Technology Student**
+**Full-Stack Software Developer | Information Technology Student**
 
-Information Technology student at Mapúa University with hands-on experience building enterprise-grade web applications using Spring Boot, ASP.NET Core, and Angular. Focused on secure authentication, AI integration, and database design.
+Full-stack developer building production web applications in Java/Spring Boot and Angular, with a backend focus on secure authentication, real-time systems, and payment integration. Information Technology student at Mapúa University, graduating October 2026.
 
 ---
 
 ## About Me
 
 - **Location:** Valenzuela City, Philippines
-- **Role:** IT Student | Support Engineer Intern @ Dashlabs.ai (YC W21)
+- **Role:** IT Student | Former Support Engineer Intern @ Dashlabs.ai (YC W21)
 - **Education:** BS Information Technology @ Mapúa University 
-- **Awards:** DOST-SEI S&T Merit Scholar | Consistent High Honors Student
+- **Awards:** DOST-SEI S&T Merit Scholar | Dean's & President's Lister | Cardinal Excellence Award
 - **Contact:**  
   [aldy.timbol@gmail.com](mailto:aldy.timbol@gmail.com)  
   [LinkedIn](https://www.linkedin.com/in/dino-alfred-timbol-3b949a248)  
@@ -22,32 +22,30 @@ Information Technology student at Mapúa University with hands-on experience bui
 
 ## Experience
 
-### Support Engineer Intern, Dashlabs.ai (YC W21)
+### Support Engineer Intern, Dashlabs.ai (YC W21) *(former)*
 *January 2026 – May 2026 | Mandaluyong, Philippines*
 
-Interned at a laboratory information system (LIS) startup providing an end-to-end platform for laboratories and clinics, assigned across the Client Success and Quality Assurance departments.
+Laboratory information system (LIS) startup serving clinical labs and clinics across Southeast Asia. Worked across the Client Success and Quality Assurance departments.
 
-- Handled Intaker and Solver roles in Client Success, independently managing client concerns from intake through resolution, including document modification of clinical lab templates (hematology, urinalysis, requisition forms) via DocsGen
-- Wrote and executed structured QA test cases for core modules (patient registration, order management, document generation), and identified, documented, and regression-tested bug fixes
-- Designed and built a Dynamic Summary Report feature using HTML, CSS, and Nunjucks templating, delivering a reusable, lab-agnostic report deployed across all labs on the platform
+- Designed and shipped a Dynamic Summary Report feature (HTML, CSS, Nunjucks) that replaced per-lab report building with a single dynamically-rendered template, available across the platform's 200+ labs in the Philippines and Southeast Asia
+- Wrote and executed structured QA test cases across the order management and document generation modules, filing bug reports and verifying regression fixes remained stable across platform updates
+- Handled both Intaker and Solver roles in Client Success, reaching full ownership of a 60+ ticket/week queue without senior oversight within the first month
 
 ---
 
 ## **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -57,19 +55,18 @@ Interned at a laboratory information system (LIS) startup providing an end-to-en
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux%20CLI-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
 ---
@@ -93,10 +90,10 @@ A web-based spa operations management platform built for New Lasema Spa Jjimjilb
 - CSV-exportable reporting
 
 **My Contributions (Group Leader):**
-- Led development of the modular-monolith Spring Boot 3.2 (Java 21) backend on PostgreSQL 16 and Redis 7
-- Architected the Angular 21 frontend and its integration with the backend API
-- Implemented JWT/MFA authentication and the real-time WebSocket tracking system
-- Integrated the PayMongo payment gateway for online transactions
+- Led a 3-person team building a multi-tenant system pairing a public booking site with a role-restricted internal operations dashboard
+- Owned architecture across an Angular 21 frontend and a modular-monolith Spring Boot 3.2 (Java 21) backend on PostgreSQL 16 and Redis 7
+- Implemented MFA-backed JWT authentication, WebSocket-driven real-time room and therapist tracking to prevent double-booking, and PayMongo gateway integration for online payments
+- Validated across two weeks of live spa operations
 
 **Tech Stack:** Java 21, Spring Boot 3.2, Spring Security, PostgreSQL 16, Redis 7, Angular 21, WebSockets, JWT, PayMongo API
 
@@ -252,8 +249,8 @@ A desktop-based music player built with Java that integrates GUI, database persi
 ## Education & Scholarships
 
 - **BS Information Technology**, Mapúa University (*August 2023 – October 2026*)
-  - Current GWA of 1.49
-  - Relevant coursework: Web & Desktop App Dev, DBMS, OOP (Java), UI/UX, Systems Integration
+  - Current GWA of 1.49 | Dean's & President's List honors | Cardinal Excellence Award
+  - Relevant coursework: Web Application Development, Database Management Systems, OOP (Java), Systems Integration and Architecture
 - **DOST-SEI S&T Merit Scholarship** (*2023*)
   - Top 10% of 79,585 examinees
 
